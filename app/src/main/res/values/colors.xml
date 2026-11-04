@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Theme Colors from TP Maquette -->
+    <color name="turquoise_top_bg">#2BB8E8</color>
+    <color name="turquoise_keypad_text">#1BA6C9</color>
+    <color name="red_clear_button">#F0727A</color>
+    <color name="keypad_bg">#F8F9FA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#1C1B1F</color>
+    <color name="transparent">#00000000</color>
+    <color name="spinner_dropdown_bg">#FFFFFF</color>
+</resources>

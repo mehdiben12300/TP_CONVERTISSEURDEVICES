@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.CurrencyConverter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/turquoise_top_bg</item>
+        <item name="colorPrimaryVariant">@color/turquoise_keypad_text</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/turquoise_keypad_text</item>
+        <item name="colorSecondaryVariant">@color/turquoise_keypad_text</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/turquoise_top_bg</item>
+    </style>
+</resources>
